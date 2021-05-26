@@ -8,3 +8,7 @@
 /DC.Service/bin
 /DC.Utils/bin
 /DC.UI/dist
+/DC.Api/obj
+/DC.IService/obj
+/DC.Service/obj
+/DC.Utils/obj

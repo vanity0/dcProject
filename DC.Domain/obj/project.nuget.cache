@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0JGeYQMJN6kfKsWFo2bHkBwJ9vPEjOQ4cnYVUf0VjfwN6Off0k69TWgS3Jxje3RHSP60weDhuFAygvIw0FCqeg==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\DCProject\\DC.Domain\\DC.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\29561\\.nuget\\packages\\freesql\\2.3.200\\freesql.2.3.200.nupkg.sha512",
+    "C:\\Users\\29561\\.nuget\\packages\\freesql.dbcontext\\2.3.200\\freesql.dbcontext.2.3.200.nupkg.sha512",
+    "C:\\Users\\29561\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\29561\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

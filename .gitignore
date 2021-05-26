@@ -1,0 +1,10 @@
+/.vs
+/DC.UI/node_modules
+/DC.Api/appsettings.json
+/DC.Domain/bin
+/DC.Api/bin
+/DC.H5/node_modules
+/DC.IService/bin
+/DC.Service/bin
+/DC.Utils/bin
+/DC.UI/dist
